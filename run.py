@@ -1,6 +1,4 @@
-import subprocess
 import youtube_dl
-import os
 
 def run():
     video_url = input("Please enter the YouTube Video URL: ")
